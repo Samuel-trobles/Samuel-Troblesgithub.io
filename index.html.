@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> "Lugares para ir de viaje"</title>
+        <li><a href="#Introducción">Introducción</a></li>
+        <li><a href="#Tabla">Viajes Familiares</a> </li>
+        <li><a href="#Pros y contras">Tabla de pros y contras</a></li>
+        
+    
+    <img id= "fotoI" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png">
+    
+        <h2 id="Introducción">Introducción</h2>
+        <p>Es bien sabido que una de las mejores cosas de la vida es viajar <strong>(no para todo el mundo pero la gran mayoria de personas les gusta)</strong> porque se pueden conocer nuevas culturas, costumbres, lugares, paisajes, etc. Pero realmente: ¿por qué nace la idea de querer viajar?, bueno en lo personal e viajado bastante no e salido de mi país pero e podidio tener una gran cantidad de experiencias que me han hecho disfrutar aún más la vida.</p>
+        <p>E preguntado a conocidos que les gusta viajar y me han respondido con una gran variedad de argumentos algunos los hacen para ver a que país mudarse, otros por la experiencia, visitar familiares que vieven en otros lugares, etc. </p>
+        <p>Pero creo que la razón que más impulsa es la de cambiar de aires es decir, la gran mayoria de personas se lleghan a artar del lugar en el que viven y transitan diariamente, <strong>(pasa mucho con las persona que vivimos en ciudad) </strong>     también es una forma más en la que se puede compartir en  familia.
+        </p>
+        <h2></h2>
+        <p>Ahora ya teniendo en claro cuales son las razónes por las que deberias viajar te dejó una lista de lugares muy bacanos. <strong>Te dejó una lista de lugares y pienses donde podrías hacer una viaje familiar</strong>.</p>
+        <h2 id="Tabla">Viaje familiar</h2>
+        <li>Girardot</li>
+        <li>Villa Vicencio</li>
+        <li>Carmen De Apicala</li>
+        <li>Villa de Leiva</li>
+        
+        
+        Ahora podras analizar un cuadro en el que hago una comparación se gun mi experiencia viajando a los diferentes lugares con una apunte positivo y otro negativo para que puedas tomar una desición.
+        </head>
+            <style>
+            #fotoI{
+                 width: 151px;
+                float:left;
+                margin-right: 28px;
+            margin-bottom: 23px;
+                margin-right: 7px;
+            margin-bottom: -9px;
+                
+            }
+            #Villa {
+                color: rgb(90, 60, 181);
+            }
+             body {
+            background-color: rgb(204, 90, 147);
+        }
+        body {
+            font-family: cursive;
+        }
+     table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 24%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+}
+caption {
+   padding: 2.3em;
+   color: #565491;
+    background: #-53;
+}
+table{
+            background-color: rgb(219, 147, 147);
+        }
+        table{
+            font-family: fantasy;
+        }
+th {
+   background: #eee;
+}
+        
+    </style>
+    <body>
+    
+        <h1 id="Pros y contras">Pro y Contras de lugares para ir de viaje</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Lugar</th>
+                    <th>Pro</th>
+                    <th>Contra</th>
+                  
+                </tr>
+            </thead>
+            
+            
+            <tbody>
+<tr>
+    <td>Girardot
+     <td>Es tierra caliente por lo general tierra caliente es muy buena opción para relajerte y como buen logar de tierra caliente quieres meterte a picsinas o entrar a diferentes atracciones que sean acuaticas y hay una gran variedad cerca.</td>
+    <td>Lo malo es que es muy visitado en épocas de temporada alta por lo que seria muy complicado disfrutar sitios donde halla piscina (incluyendo hoteles)</td>
+    
+ </tr>
+ 
+ <tr>
+         <td>Villa Vicencio
+         <td>Tambiés es tierra caliente, tiene una gran variación de lugares precisamente para tener nuvas esperiencias muy variadas desde un zoologico hasta tirarse en tirolina</td>
+         <td>Lo malo es la gran moyoria de servicios o productos son muy caros, por lo que se tendria que tener un presupuesto muy alto.</td>
+</tr>
+          
+<tr>
+             <td>Boyacá
+         <td>En concreto de Boyacá me gusta mucho ir a Paipa es un lugar donde la temperatura puede veriar ni es muy caliente ni frío claro que depndiendo a que parte de Paipa te dirigas encontraras hoteles donde te brindan la opción de sentirte en tieerra caliente ya que cuentan con calefacción y piscinas climatizadas</td>
+         <td>Al igual que Villa Vicencio este lugar es muy caro por lo se tendría que tener un presupuesto muy alto, también es un lugar que es muy visitado porque por lo general está muy repleto de gente, y conseguir hospedaje sera un problema a menos de que reserves</td>
+</tr> 
+           
+<tr>
+            <td>Villa de Leiva</td>
+            <td>Este es un lugar muy bonito y tranquilo para los que les guste el frío, y de la gastronomia ya que en este sitio la gastronomia es muy abundante lo cual viene perfecto para los curiosos</td>
+             <td>Este lugar según yo y más personas no es ninguno tal vez es un poco complicado coneguir hospedaje pero por lo demás es una experiencia muy disfrutable</td>
+ </tr>
+ 
+ 
+
+                
+            </tbody>
+        </table>
+        
+    <p>Quiero recalcar que esta página esta dedicada para aquellas personas que quieran viajar en compañia y no solas, ya que yo no tengo experiencia alguna de viajes en solitarios pero si te interesa te dejó una página adicional donde puedes ver opciones para viajar solo, haz clic <em><a href="https://alkilautos.com/blog/general/destinos-para-solteros-en-colombia/#:~:text=Santa%20Marta%20también%20está%20en,de%20fiesta%20en%20el%20rodadero.">aquí</a></em></p>
+    <p>Ahora te dejo con una de las razónes por los que deberias viajar en pareja. 
+    </p>
+    
+
+
+    </body>
+</html>
